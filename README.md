@@ -1,6 +1,5 @@
 
 
-https://user-images.githubusercontent.com/38173294/123550126-b01b4280-d789-11eb-8be9-fe3aa112d449.mp4
 
 # Anime-Artist-with-StyleGAN2
 
