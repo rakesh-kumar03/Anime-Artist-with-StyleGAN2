@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/38173294/123550126-b01b4280-d789-11eb-8be9-fe3aa112d449.mp4
+
 # Anime-Artist-with-StyleGAN2
 
 Cartoon creators are often faced with timeline challenges to create content, and deciding the visual characteristics of a person is a time taking process. Machine learning can help us to solve this problem. The goal is to generate Anime Avatars with StyleGAN2 and get familiar with the StyleGAN2 architecture. GAN(Generative Adversarial Network) is used to generate various new content. It has some interesting applications like generating synthetic data for training, creating arts, style-transfer, translating one image to another, etc. The topic enjoys popularity due to these interesting applications.
@@ -6,4 +10,7 @@ We generated stochastic variations for distinct levels using StyleGAN2 by provid
 Idea is to use a generative model that can generate new content using a Pre-trained model which works on human faces, to generate anime content (faces).
 
 
-![Watch the video](https://github.com/rakesh-kumar03/Anime-Artist-with-StyleGAN2/blob/main/interpolate3x2-2m832.mp4)
+
+
+https://user-images.githubusercontent.com/38173294/123550134-bb6e6e00-d789-11eb-844c-260995671117.mp4
+
