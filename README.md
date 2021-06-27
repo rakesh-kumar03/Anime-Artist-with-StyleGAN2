@@ -6,4 +6,4 @@ We generated stochastic variations for distinct levels using StyleGAN2 by provid
 Idea is to use a generative model that can generate new content using a Pre-trained model which works on human faces, to generate anime content (faces).
 
 
-![Watch the video](interpolate3x2-2m832.mp4)
+![Watch the video](https://github.com/rakesh-kumar03/Anime-Artist-with-StyleGAN2/blob/main/interpolate3x2-2m832.mp4)
