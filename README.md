@@ -5,3 +5,5 @@ Cartoon creators are often faced with timeline challenges to create content, and
 We generated stochastic variations for distinct levels using StyleGAN2 by providing disturbance at the current layer. Our impression or character of the image is not changed by these variations, they simply allow us to make superficial changes that help in a smooth transition, these changes include hair placement, changing eye sizes, etc.
 Idea is to use a generative model that can generate new content using a Pre-trained model which works on human faces, to generate anime content (faces).
 
+
+![Watch the video](interpolate3x2-2m832.mp4)
